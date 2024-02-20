@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">Projects-built-during_100-days-of-code_2021</h1>
+  <h1 align="center">100-days-of-code_2021</h1>
 
 ## Description
 
